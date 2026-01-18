@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     // Please write your code here.
     string c;
-    int a, b;
+    double a, b;
 
     cin >> c;
     cin >> a >> b;
