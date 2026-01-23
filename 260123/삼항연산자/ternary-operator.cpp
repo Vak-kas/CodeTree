@@ -8,7 +8,7 @@ int main() {
 
     bool flag = score == 100 ? true : false;
 
-    if(true){
+    if(flag){
         cout << "pass" << endl;
     }
     else{
