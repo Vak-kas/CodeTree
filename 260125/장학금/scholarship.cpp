@@ -13,6 +13,9 @@ int main() {
         else if(b>=90){
             cout << 50000 << endl;
         }
+        else{
+            cout << 0 << endl;
+        }
     }
     else{
         cout << 0 << endl;
